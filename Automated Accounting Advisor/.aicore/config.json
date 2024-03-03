@@ -1,0 +1,7 @@
+  {
+    "AICORE_AUTH_URL": "https://deloitte-ci083owd.authentication.eu10.hana.ondemand.com",
+    "AICORE_CLIENT_ID": "sb-928ec83a-bf7c-465c-aac9-989ed20a8bfb!b410248|aicore!b540",
+    "AICORE_CLIENT_SECRET": "b76da79b-85c5-4506-b6d0-79cd0eb7df15$TGxTiO6xbkhu-1XY6K8EOGloxqvnDJTZZUlcFhN_piU=",
+    "AICORE_RESOURCE_GROUP": "default",
+    "AICORE_BASE_URL": "https://api.ai.prod.eu-central-1.aws.ml.hana.ondemand.com/v2"
+  }
